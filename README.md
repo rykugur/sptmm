@@ -15,25 +15,27 @@ I'm a mobile app dev by day - Native and React Native. I wanted an excuse to
 start a new project and learn Next.js and Shadcn. This seemed like a good way
 to do it.
 
-Eventually I will consider moving this into a tauri app for a desktop-app-like
-experience... when I feel like learning Rust.
-
+Tauri let me do that in a way that didn't require some jank, and let's me learn
+a little Rust as well.
 
 ### How
 
-Bun + Next.js + Shadcn
+Bun + Next.js + Shadcn + Tauri
 
-## Requirements
+## Building/running from source
+
+### Requirements
 
 - `bun` installed and available on `PATH`.
-	- A [flake.nix](./flake.nix) is provided with a default devShell if you
-  prefer to use that.
+- `node` - because the Tauri CLI requires it.
+- `rustc`/`rustup`/`cargo` - for Tauri.
 
-## Installation/usage
+A [flake.nix](./flake.nix) is provided with a default devShell if you prefer
+to use that.
+
+### Instructions
 
 - Clone the repo
 - `cd` to the repo
 - `bun install`
-- `bun run build`
-- `bun start`
-- Navigate to [localhost:3000](http://localhost:3000)
+- `bun run tauri dev`
