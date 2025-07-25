@@ -12,7 +12,18 @@
         [ "aarch64-darwin" "aarch64-linux" "x86_64-darwin" "x86_64-linux" ];
 
       perSystem = { pkgs, ... }: {
-        devShells.default = pkgs.mkShell { packages = [ pkgs.bun ]; };
+        devShells.default = pkgs.mkShell {
+          packages = [
+            pkgs.bun
+
+            # tauri
+            pkgs.cargo
+            pkgs.rustc
+            pkgs.rustup
+
+            pkgs.nodejs
+          ];
+        };
 
         formatter = pkgs.nixfmt-rfc-style;
       };
