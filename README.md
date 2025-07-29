@@ -15,12 +15,23 @@ I'm a mobile app dev by day - Native and React Native. I wanted an excuse to
 start a new project and learn Next.js and Shadcn. This seemed like a good way to
 do it.
 
-Tauri let me do that in a way that didn't require some jank, and let's me learn
-a little Rust as well.
+Tauri let me do that in a way that let me avoid some jank, and let's me learn a
+little Rust as well.
 
 ### How
 
 Bun + Next.js + Shadcn + Tauri
+
+## Usage
+
+- Download the latest release
+- Install*
+- Run
+- Profit
+
+### Requirements
+
+- `wmctrl` (or `hyprctl` if using hyprland).
 
 ## Building/running from source
 

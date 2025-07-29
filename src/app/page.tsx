@@ -1,14 +1,6 @@
 "use client";
 import { Button } from "@/components/ui/button";
 import { ModeToggle } from "@/components/ui/mode-toggle";
-import {
-  isTauri,
-  isTauriDesktop,
-  isTauriMobile,
-  isWeb,
-  isWebDesktop,
-  isWebMobile,
-} from "@/lib/env";
 import Image from "next/image";
 
 export default function Home() {
@@ -37,12 +29,6 @@ export default function Home() {
           </li>
         </ol>
         <Button variant="outline">Deploy now</Button>
-        <div>isTauri: {isTauri ? "true" : "false"}</div>
-        <div>isTauriDesktop: {isTauriDesktop ? "true" : "false"}</div>
-        <div>isTauriMobile: {isTauriMobile ? "true" : "false"}</div>
-        <div>isWeb: {isWeb ? "true" : "false"}</div>
-        <div>isWebDesktop: {isWebDesktop ? "true" : "false"}</div>
-        <div>isWebMobile: {isWebMobile ? "true" : "false"}</div>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
