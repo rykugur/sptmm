@@ -60,7 +60,7 @@
   },
   "google_drive_id": {
     "type": "string",
-    "description": "The Google file id for the mod (for mods that don't use github)."
+    "description": "The Google Drive id for the mod (for mods that don't use github)."
   },
   "required": [
     "name",

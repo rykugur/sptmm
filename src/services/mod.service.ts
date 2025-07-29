@@ -1,7 +1,9 @@
-import { join, appDataDir } from "@tauri-apps/api/path";
 import { ModTypes } from "@/types";
 
+export const loadDefaultMods = async (): Promise<ModTypes.SPTMod[]> => {
+  return [];
+};
+
 export const loadMods = async (): Promise<ModTypes.SPTMod[]> => {
-  // const filePath = await join(await appDataDir(), `${this.filename}.json`);
   return [];
 };
