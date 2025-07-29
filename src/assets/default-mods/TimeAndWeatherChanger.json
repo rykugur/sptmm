@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rykugur/sptmm/refs/heads/master/modschema.json",
+  "name": "TIME & WEATHER CHANGER - Updated by Cj",
+  "id": "time_and_weather_changer",
+  "source": "github",
+  "owner": "CJ-SPT",
+  "repo": "SamSWAT.TimeWeatherChanger"
+}

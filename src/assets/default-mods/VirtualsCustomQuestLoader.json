@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rykugur/sptmm/refs/heads/master/modschema.json",
+  "name": "Virtual's Custom Quest Loader",
+  "id": "vcql",
+  "source": "github",
+  "owner": "VirtualAE",
+  "repo": "Virtuals-Custom-Quest-Loader"
+}

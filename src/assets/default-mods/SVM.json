@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rykugur/sptmm/refs/heads/master/modschema.json",
+  "name": "Server Value Modifier",
+  "id": "svm",
+  "source": "github",
+  "owner": "GhostFenixx",
+  "repo": "SVM"
+}

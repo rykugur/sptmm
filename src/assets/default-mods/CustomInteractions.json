@@ -1,0 +1,7 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rykugur/sptmm/refs/heads/master/modschema.json",
+  "name": "CustomInteractions",
+  "id": "custom_interactions",
+  "source": "google",
+  "google_file_id": "1b8QQmSZU59cFs_kAoaeEPTXp8ywphpw_"
+}

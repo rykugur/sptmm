@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rykugur/sptmm/refs/heads/master/modschema.json",
+  "name": "BrightLasers",
+  "id": "bright_lasers",
+  "source": "github",
+  "owner": "acidphantasm",
+  "repo": "acidphantasm-brightlasers"
+}

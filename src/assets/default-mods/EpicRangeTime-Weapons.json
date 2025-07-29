@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rykugur/sptmm/refs/heads/master/modschema.json",
+  "name": "Epic's All In One",
+  "id": "epics_all_in_one",
+  "source": "github",
+  "owner": "EpicRangeTime",
+  "repo": "EpicRangeTime-Weapons"
+}

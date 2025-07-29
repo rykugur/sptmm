@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rykugur/sptmm/refs/heads/master/modschema.json",
+  "name": "MoreCheckmarks",
+  "id": "more_checkmarks",
+  "source": "github",
+  "owner": "TommySoucy",
+  "repo": "MoreCheckmarks"
+}

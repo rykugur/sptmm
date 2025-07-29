@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rykugur/sptmm/refs/heads/master/modschema.json",
+  "name": "Item Info",
+  "id": "item_info",
+  "source": "github",
+  "owner": "odt1",
+  "repo": "ODT-ItemInfo"
+}

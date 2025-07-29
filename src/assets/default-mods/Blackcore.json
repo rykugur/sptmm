@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rykugur/sptmm/refs/heads/master/modschema.json",
+  "name": "BlackCore",
+  "id": "blackcore",
+  "source": "github",
+  "owner": "emilanderss0n",
+  "repo": "BlackCore",
+  "dependencies": [
+    {
+      "id": "painter",
+      "load_first": true
+    }
+  ]
+}

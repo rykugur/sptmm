@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rykugur/sptmm/refs/heads/master/modschema.json",
+  "name": "ArtemTrader",
+  "id": "artem",
+  "source": "github",
+  "owner": "CrackboneEFT",
+  "repo": "ArtemTrader",
+  "dependencies": [
+    {
+      "id": "vcql"
+    }
+  ]
+}

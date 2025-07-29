@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rykugur/sptmm/refs/heads/master/modschema.json",
+  "name": "Performance Improvements",
+  "id": "performance_improvements",
+  "source": "github",
+  "owner": "CJ-SPT",
+  "repo": "PerformanceImprovements",
+  "dependencies": [
+    { "id" : "unity_toolkit" }
+  ]
+}

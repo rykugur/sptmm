@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rykugur/sptmm/refs/heads/master/modschema.json",
+  "name": "Better Rear Sights",
+  "id": "better_rear_sights",
+  "source": "github",
+  "owner": "peinwastaken",
+  "repo": "PeinBetterRearSights"
+}

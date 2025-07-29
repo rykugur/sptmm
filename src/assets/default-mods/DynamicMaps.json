@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rykugur/sptmm/refs/heads/master/modschema.json",
+  "name": "Dynamic Maps",
+  "id": "dynamic_maps",
+  "source": "github",
+  "owner": "CJ-SPT",
+  "repo": "SPT-DynamicMaps"
+}

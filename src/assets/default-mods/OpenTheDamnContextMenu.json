@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rykugur/sptmm/refs/heads/master/modschema.json",
+  "name": "Open The Damn Context Menu - Open the Context Menu While Searching",
+  "id": "open_the_damn_context_menu",
+  "source": "github",
+  "owner": "JohnDavidAnthony",
+  "repo": "OpenTheDamnContextMenu"
+}

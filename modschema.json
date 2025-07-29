@@ -58,7 +58,7 @@
     "type": "string",
     "description": "The filebase download URL for the mod (for mods that don't use github)."
   },
-  "google_file_id": {
+  "google_drive_id": {
     "type": "string",
     "description": "The Google file id for the mod (for mods that don't use github)."
   },

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rykugur/sptmm/refs/heads/master/modschema.json",
+  "name": "Tactical Gear Component",
+  "id": "tgc",
+  "source": "github",
+  "owner": "emilanderss0n",
+  "repo": "TGC",
+  "dependencies": [
+    {
+      "id": "painter",
+      "load_first": true
+    }
+  ]
+}

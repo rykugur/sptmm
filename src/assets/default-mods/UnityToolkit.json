@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rykugur/sptmm/refs/heads/master/modschema.json",
+  "name": "UnityToolkit",
+  "id": "unity_toolkit",
+  "source": "github",
+  "owner": "Nympfonic",
+  "repo": "UnityToolkit"
+}

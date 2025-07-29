@@ -1,0 +1,16 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rykugur/sptmm/refs/heads/master/modschema.json",
+  "name": "SAIN",
+  "id": "sain",
+  "source": "github",
+  "owner": "Solarint",
+  "repo": "SAIN",
+  "dependencies": [
+    {
+      "id": "big_brain"
+    },
+    {
+      "id": "waypoints"
+    }
+  ]
+}

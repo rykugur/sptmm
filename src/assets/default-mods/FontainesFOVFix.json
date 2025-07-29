@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rykugur/sptmm/refs/heads/master/modschema.json",
+  "name": "Fontaine's FOV Fix",
+  "id": "fontaines_fov_fix",
+  "source": "github",
+  "owner": "space-commits",
+  "repo": "SPT-FOV-Fix"
+}
